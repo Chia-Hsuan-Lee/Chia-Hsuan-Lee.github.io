@@ -2,7 +2,7 @@
 title: "Spoken SQuAD: A Study of Mitigating the Impact of Speech Recognition Errors on Listening Comprehension"
 collection: publications
 permalink: /publication/2018-09-02-paper-SPOKENSQUAD
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'The data for this paper is available. [Data](https://github.com/chiahsuan156/Spoken-SQuAD)'
 date: 2018-09-02
 venue: 'Interspeech 2018'
 paperurl: 'https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1714.pdf'
