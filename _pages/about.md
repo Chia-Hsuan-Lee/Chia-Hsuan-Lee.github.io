@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 ## News
-- 09/2018: Oral presentation at [Interspeech Spoken-Language-Understanding](http://interspeech2018.org/index.html) (Hyderabrad, India). [[Info]](/publications/2018-09-02-paper-SPOKENSQUAD)
-- 12/2018: Poster presentation at [IEEE SLT](http://www.slt2018.org/) (Athens, Greece). [[Info]](/publications/2018-12-18-paper-ODSQA)
+- 09/2018: Oral presentation at [Interspeech Spoken-Language-Understanding](http://interspeech2018.org/index.html) (Hyderabrad, India). 
+- 12/2018: Poster presentation at [IEEE SLT](http://www.slt2018.org/) (Athens, Greece).
 
 
 
