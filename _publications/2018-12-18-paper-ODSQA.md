@@ -7,7 +7,7 @@ venue: 'IEEE Spoken Language Technology(SLT)'
 paperurl: 
 citation:
 ---
-[[PDF]](https://arxiv.org/abs/1808.02280) [[Corpus]](https://github.com/chiahsuan156/ODSQA)
+[[PDF]](https://arxiv.org/pdf/1808.02280.pdf) [[Corpus]](https://github.com/chiahsuan156/ODSQA)
 
 
 ## Abstract

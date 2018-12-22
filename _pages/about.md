@@ -7,6 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Chia-Hsuan (Michael) Lee, currently a second year computer science M.S. student in National Taiwan University, under the supervision of Professors [Lin-Shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/). My research goal is to let machines reason upon both common sense knowledge and grounded meanings from various contexts. My reseach interests include natrual language understanding, natural langauge generation and speech processing. Especially question answering on text content and speech content through adversarial learning and transfer learning.
 
-Here is my [Curriculum Vitae (updated November 2018)](https://drive.google.com/file/d/1hbSIgTwottMALR7JAwUf7aa29rNooc3I/view?usp=sharing).
+## News
+- 09/2018: Oral presentation at [Interspeech Spoken-Language-Understanding](http://interspeech2018.org/index.html) (Hyderabrad, India). [[Info]](/publications/2018-09-02-paper-SPOKENSQUAD)
+- 12/2018: Poster presentation at [IEEE SLT](http://www.slt2018.org/) (Athens, Greece). [[Info]](/publications/2018-12-18-paper-ODSQA)
+
+
+
+Hi! Nice to meet you!
+I am Chia-Hsuan (Michael) Lee (李佳軒), currently a second year computer science M.S. student in National Taiwan University, under the supervision of Professors [Lin-Shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/). My research goal is to let machines reason upon both common sense knowledge and grounded meanings from various contexts. My reseach interests include natrual language understanding, natural langauge generation and speech processing. Especially question answering on text content and speech content through adversarial learning and transfer learning.
+
+Here is my <a href="files/Curriculum_Vitae_Application_1213.pdf" target="_blank">Curriculum Vitae (updated December 2018)</a>..
