@@ -17,4 +17,4 @@ redirect_from:
 Hi! Nice to meet you!
 I am Chia-Hsuan (Michael) Lee (李佳軒), currently a second year computer science M.S. student in National Taiwan University, under the supervision of Professors [Lin-Shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/). My research goal is to let machines reason upon both common sense knowledge and grounded meanings from various contexts. My reseach interests include natrual language understanding, natural langauge generation and speech processing. Especially question answering on text content and speech content through adversarial learning and transfer learning.
 
-Here is my <a href="files/Curriculum_Vitae_Application_1213.pdf" target="_blank">Curriculum Vitae (updated December 2018)</a>..
+Here is my <a href="https://drive.google.com/open?id=1lnxs95uPXJMmEnzts6zkjOZpm7H_9Xxl" target="_blank">Curriculum Vitae (updated December 2018)</a>..
