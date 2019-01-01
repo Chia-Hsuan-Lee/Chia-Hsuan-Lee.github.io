@@ -7,8 +7,7 @@ date: 2018-09-02
 venue: 'Interspeech'
 paperurl:
 ---
-**Chia-Hsuan Lee**, Szu-Lin Wu, Chi-Liang Liu, Hung-yi Lee
-[[PDF]](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1714.pdf) [[Corpus]](https://github.com/chiahsuan156/Spoken-SQuAD)
+**Chia-Hsuan Lee**, Szu-Lin Wu, Chi-Liang Liu, Hung-yi Lee [[PDF]](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1714.pdf) [[Corpus]](https://github.com/chiahsuan156/Spoken-SQuAD)
 
 
 ## Abstract

@@ -7,7 +7,7 @@ venue: 'IEEE Spoken Language Technology(SLT)'
 paperurl: 
 citation:
 ---
-[[PDF]](https://arxiv.org/pdf/1808.02280.pdf) [[Corpus]](https://github.com/chiahsuan156/ODSQA)
+**Chia-Hsuan Lee**, Shang-Ming Wang, Huan-Cheng Chang, Hung-Yi Lee [[PDF]](https://arxiv.org/pdf/1808.02280.pdf) [[Corpus]](https://github.com/chiahsuan156/ODSQA)
 
 
 ## Abstract
