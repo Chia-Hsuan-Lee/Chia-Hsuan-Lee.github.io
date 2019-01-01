@@ -12,6 +12,9 @@ redirect_from:
 - 09/2018: Oral presentation at [Interspeech Spoken-Language-Understanding](http://interspeech2018.org/index.html) (Hyderabrad, India). 
 - 12/2018: Poster presentation at [IEEE SLT](http://www.slt2018.org/) (Athens, Greece).
 
+<p align="center">
+  <kbd><img src="https://chiahsuan156.github.io/images/photontu1600.jpg" alt="Photo"/></kbd>
+</p>
 
 
 Hi! Nice to meet you!
