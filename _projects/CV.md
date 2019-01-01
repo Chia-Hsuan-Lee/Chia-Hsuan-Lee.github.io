@@ -1,13 +1,12 @@
 ---
-title: "Spoken SQuAD: A Study of Mitigating the Impact of Speech Recognition Errors on Listening Comprehension"
+title: "Sketch-based Image Retrieval across Art Styles"
 collection: publications
-permalink: /publication/2018-09-02-paper-SPOKENSQUAD
+permalink: /publication/CV
 excerpt: 
-date: 2018-09-02
-venue: 'Interspeech'
+date: 2018-01-02
+venue: ''
 paperurl:
 ---
-**Chia-Hsuan Lee**, Szu-Lin Wu, Chi-Liang Liu, Hung-yi Lee
 [[PDF]](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1714.pdf) [[Corpus]](https://github.com/chiahsuan156/Spoken-SQuAD)
 
 
