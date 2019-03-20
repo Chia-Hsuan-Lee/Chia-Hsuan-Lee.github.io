@@ -5,7 +5,7 @@ permalink: /publication/CLQA
 excerpt: 
 date: 2019-06-03
 venue: 'North American Chapter of the Association for Computational
-Linguistics(NAACL) [Under Review]'
+Linguistics(ACL) [Under Review]'
 paperurl: 
 ---
 **Chia-Hsuan Lee**, Hung-Yi Lee [[PDF]]()
