@@ -5,7 +5,7 @@ permalink: /publication/ICASSP2019
 excerpt: 
 date: 2019-05-12
 venue: 'International Conference on Acoustics, Speech, and Signal
-Processing(ICASSP) [Under Review]'
+Processing(ICASSP)'
 paperurl: 
 ---
 **Chia-Hsuan Lee**, Yun-Nung Chen, Hung-Yi Lee [[PDF]](https://drive.google.com/file/d/1mEjqpDQ8JBUkOB07YOOzDOEEeFnAYFaI/view?usp=sharing) 
