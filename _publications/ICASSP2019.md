@@ -8,7 +8,7 @@ venue: 'International Conference on Acoustics, Speech, and Signal
 Processing(ICASSP)'
 paperurl: 
 ---
-**Chia-Hsuan Lee**, Yun-Nung Chen, Hung-Yi Lee [[PDF]](https://drive.google.com/file/d/1mEjqpDQ8JBUkOB07YOOzDOEEeFnAYFaI/view?usp=sharing) 
+**Chia-Hsuan Lee**, Yun-Nung Chen, Hung-Yi Lee [[PDF]](https://arxiv.org/pdf/1904.07904.pdf) 
 
 
 ## Abstract

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/CLQA
 excerpt: 
 date: 2019-06-03
-venue: 'North American Chapter of the Association for Computational
+%venue: 'North American Chapter of the Association for Computational
 Linguistics(ACL) [Under Review]'
 paperurl: 
 ---

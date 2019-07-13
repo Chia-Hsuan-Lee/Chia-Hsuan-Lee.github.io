@@ -9,6 +9,9 @@ redirect_from:
 ---
 
 ## News
+- 09/2019: I am going to join the [University of Washington Natural Language
+  Processing Group](https://nlp.washington.edu/) as a PhD student in September, 2019. My advisor is [Mari Ostendorf](http://ssli.ee.washington.edu/people/mo/)!
+- 06/2019: My work "Machine Comprehension of Spoken Content: TOEFL Listening Test and Spoken SQuAD" is accepted by IEEE Transactions on Audio, Speech and Language Processing!
 - 01/2019: I am going to start my summer internship at Apple(Cupertino, CA) in
   July as NLP research intern! My supervisor will be Jerome R. Bellegarda!
 - 01/2019: My work "Mitigating the Impact of Speech Recognition Errors on Spoken Question Answering by Adversarial Domain Adaptation" is accepted at [ICASSP 2019](https://2019.ieeeicassp.org/) (Brighton, UK). 
