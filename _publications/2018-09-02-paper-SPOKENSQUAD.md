@@ -6,9 +6,20 @@ excerpt:
 date: 2018-09-02
 venue: 'Interspeech'
 paperurl:
+citation:
 ---
 **Chia-Hsuan Lee**, Szu-Lin Wu, Chi-Liang Liu, Hung-yi Lee [[PDF]](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/1714.pdf) [[Corpus]](https://github.com/chiahsuan156/Spoken-SQuAD)
-
+<pre style="background-color: rgb(230,230,230);white-space: pre-wrap;">
+<font size="1">
+@article{lee2018spoken,
+  title={Spoken SQuAD: A Study of Mitigating the Impact of Speech Recognition Errors on Listening Comprehension},
+  author={Lee, Chia-Hsuan and Wu, Szu-Lin and Liu, Chi-Liang and Lee, Hung-yi},
+  journal={Proc. Interspeech 2018},
+  pages={3459--3463},
+  year={2018}
+}
+</font>
+</pre>
 
 ## Abstract
 Reading comprehension has been widely studied. One of the
