@@ -16,7 +16,7 @@ My research interests are deep learning/machine learning and their applications 
 
 Previously I spent great years at [National Taiwan University](https://www.ntu.edu.tw/) working with [Prof. Lin-Shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and [Prof. Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) on question answering. 
 
-Full CV: ( <a href="files/cv_1023.pdf" target="_blank">pdf</a>.)
+Full CV: (<a href="files/cv_1023.pdf" target="_blank">pdf</a>)
 
 <p align="center">
   <img src="https://chiahsuan156.github.io/images/uw_logo.png" width="90" hspace="20">
