@@ -8,22 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-## News
-- 09/2019: I am going to join the [University of Washington Natural Language
-  Processing Group](https://nlp.washington.edu/) as a PhD student in September, 2019. My advisor is [Mari Ostendorf](http://ssli.ee.washington.edu/people/mo/)!
-- 06/2019: My work "Machine Comprehension of Spoken Content: TOEFL Listening Test and Spoken SQuAD" is accepted by IEEE Transactions on Audio, Speech and Language Processing!
-- 01/2019: I am going to start my summer internship at Apple(Cupertino, CA) in
-  July as NLP research intern! My supervisor will be Jerome R. Bellegarda!
-- 01/2019: My work "Mitigating the Impact of Speech Recognition Errors on Spoken Question Answering by Adversarial Domain Adaptation" is accepted at [ICASSP 2019](https://2019.ieeeicassp.org/) (Brighton, UK). 
-- 09/2018: Oral presentation at [Interspeech Spoken-Language-Understanding](http://interspeech2018.org/index.html) (Hyderabrad, India). 
-- 12/2018: Poster presentation at [IEEE SLT](http://www.slt2018.org/) (Athens, Greece).
+
+
+Hi! Nice to meet you! I am Chia-Hsuan (Michael) Lee (李佳軒), currently a first year PhD student at University of Washington, where I work in the [Natural Language Processing Group](https://nlp.washington.edu/) with [Prof. Mari Ostendorf](http://ssli.ee.washington.edu/people/mo/).
+
+My research interests are deep learning/machine learning and their applications in natural language processing. My recent research interests are open-domain question answering, dialogue systems and language modeling. Broadly speaking, I am interested in language understanding and interpretability of deep learning models.
+
+Previously I spent great years at [National Taiwan University](https://www.ntu.edu.tw/) working with [Prof. Lin-Shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and [Prof. Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) on question answering. 
+
+Full CV: ( <a href="files/cv_1023.pdf" target="_blank">pdf</a>.)
 
 <p align="center">
-  <kbd><img src="https://chiahsuan156.github.io/images/photontu1600.jpg" alt="Photo"/></kbd>
+  <img src="https://chiahsuan156.github.io/images/uw_logo.png" width="90" hspace="20">
+  <img src="https://chiahsuan156.github.io/images/uwnlp_logo.png" width="90" hspace="20">
+  <img src="https://chiahsuan156.github.io/images/apple_logo.png" width="90" hspace="20">
+  <img src="https://chiahsuan156.github.io/images/NTU_logo.png" width="90" hspace="20">
 </p>
 
+## News
+- 08/2019: Finished my NLP research internship at Apple(Cupertino, CA)! 
+- 06/2019: My work "Machine Comprehension of Spoken Content: TOEFL Listening Test and Spoken SQuAD" is accepted by IEEE Transactions on Audio, Speech and Language Processing!
 
-Hi! Nice to meet you!
-I am Chia-Hsuan (Michael) Lee (李佳軒), currently a second year computer science M.S. student in National Taiwan University, under the supervision of Professors [Lin-Shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and [Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/). My research goal is to let machines reason upon both common sense knowledge and grounded meanings from various contexts. My reseach interests include natrual language understanding, natural langauge generation and speech processing. Especially question answering on text content and speech content through adversarial learning and transfer learning.
-
-Here is my [Curriculum Vitae (updated March 2019)](https://drive.google.com/file/d/1MS2PEbdF68RmOpt45b_G61RwE7ERu-e-/view?usp=sharing).

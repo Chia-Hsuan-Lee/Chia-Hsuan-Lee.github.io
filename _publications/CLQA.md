@@ -7,7 +7,17 @@ date: 2019-06-03
 paperurl:
 citation:
 ---
-**Chia-Hsuan Lee**, Hung-Yi Lee
+**Chia-Hsuan Lee**, Hung-Yi Lee [[PDF]](https://arxiv.org/abs/1907.06042)
+<pre style="background-color: rgb(230,230,230);white-space: pre-wrap;">
+<font size="1">
+@article{lee2019cross,
+  title={Cross-Lingual Transfer Learning for Question Answering},
+  author={Lee, Chia-Hsuan and Lee, Hung-Yi},
+  journal={arXiv preprint arXiv:1907.06042},
+  year={2019}
+}
+</font>
+</pre>
 
 
 ## Abstract
