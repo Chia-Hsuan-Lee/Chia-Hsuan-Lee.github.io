@@ -1,5 +1,5 @@
-permalink: /
 ---
+permalink: /
 title: "Biography"
 excerpt: "About me"
 author_profile: true
@@ -21,6 +21,7 @@ Full CV: (<a href="files/cv_1009.pdf" target="_blank">pdf</a>)
 <p align="center">
   <img src="https://chiahsuan156.github.io/images/uw_logo.png" width="90" hspace="20">
   <img src="https://chiahsuan156.github.io/images/uwnlp_logo.png" width="90" hspace="20">
+  <img src="https://chiahsuan156.github.io/images/ms_logo.png" width="90" hspace="20">
   <img src="https://chiahsuan156.github.io/images/apple_logo.png" width="90" hspace="20">
   <img src="https://chiahsuan156.github.io/images/NTU_logo.png" width="90" hspace="20">
 </p>
