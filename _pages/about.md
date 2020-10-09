@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi! Nice to meet you! I am Chia-Hsuan (Michael) Lee (李佳軒), currently a first year PhD student at University of Washington, where I work in the [Natural Language Processing Group](https://nlp.washington.edu/) with [Prof. Mari Ostendorf](http://ssli.ee.washington.edu/people/mo/).
+Hi! Nice to meet you! I am Chia-Hsuan (Michael) Lee (李佳軒), currently a second year PhD student at University of Washington, where I work in the [Natural Language Processing Group](https://nlp.washington.edu/) with [Prof. Mari Ostendorf](http://ssli.ee.washington.edu/people/mo/).
 
 My research interests are deep learning/machine learning and their applications in natural language processing. My recent research interests are open-domain question answering, dialogue systems and text-to-SQL parsing. Broadly speaking, I am interested in language understanding and interpretability of deep learning models.
 
@@ -21,7 +21,6 @@ Full CV: (<a href="files/cv_1009.pdf" target="_blank">pdf</a>)
 <p align="center">
   <img src="https://chiahsuan156.github.io/images/uw_logo.png" width="90" hspace="20">
   <img src="https://chiahsuan156.github.io/images/uwnlp_logo.png" width="90" hspace="20">
-  <img src="https://chiahsuan156.github.io/images/ms_logo.png" width="90" hspace="20">
   <img src="https://chiahsuan156.github.io/images/apple_logo.png" width="90" hspace="20">
   <img src="https://chiahsuan156.github.io/images/NTU_logo.png" width="90" hspace="20">
 </p>
