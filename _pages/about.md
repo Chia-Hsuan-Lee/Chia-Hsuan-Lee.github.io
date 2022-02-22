@@ -18,8 +18,9 @@ My research interests are deep learning/machine learning and their applications 
 Previously I spent great years at [National Taiwan University](https://www.ntu.edu.tw/) working with [Prof. Lin-Shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and [Prof. Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) on question answering. 
 
 ## News
+- 02/2021: Our [workshop](https://mia-workshop.github.io/) on Multilingual Information Access (MIA) will be held at NAACL2022 in Seattle! [Call for Paper](https://mia-workshop.github.io/cfp.html) and [Shared Task](https://mia-workshop.github.io/shared_task.html) are out!
+- 01/2021: Will intern with [Alexis Conneau](https://twitter.com/alex_conneau?lang=en) and [Ankur Bapna](https://twitter.com/ankurbpn) this summer at Google Research, Mountain View. 
 - 12/2021: Our new preprint on ["document-level multillingual pretraining"](https://arxiv.org/abs/2112.08709) is out!
-- 12/2021: Our [workshop](https://mia-workshop.github.io/) on Multilingual Information Access (MIA) will be held at NAACL2022 in Seattle! Shared task coming out soon!
 - 08/2021: Our paper ["Dialogue State Tracking with a Language Model using Schema-Driven Prompting"](https://aclanthology.org/2021.emnlp-main.404/) is accepted to EMNLP2021 main conference.
 - 05/2021: Will be an AI Research intern at Machine Translation Team, Google this summer with [Melvin Johnson](https://scholar.google.com/citations?user=g4oMRgsAAAAJ&hl=en).
 - 05/2021: Our paper ["KaggleDBQA: Realistic Evaluation of Text-to-SQL Parsers"](https://aclanthology.org/2021.acl-long.176/) is accpted to ACL2021 main conference. Data [page](https://github.com/chiahsuan156/KaggleDBQA) and [download link](https://www.microsoft.com/en-us/research/publication/kaggledbqa-realistic-evaluation-of-text-to-sql-parsers/) available! 
