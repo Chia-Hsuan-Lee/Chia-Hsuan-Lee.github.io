@@ -17,9 +17,9 @@ My research interests are deep learning/machine learning and their applications 
 My recent research interests are 
 - dialogue systems ([IC-DST](https://arxiv.org/abs/2203.08568), [SGP-DST](https://aclanthology.org/2021.emnlp-main.404/))
 - text-to-SQL parsing ([KaggleDBQA](https://aclanthology.org/2021.acl-long.176/), [IC-DST](https://arxiv.org/abs/2203.08568))
-- multilingual NLP ([DOCmT5][https://arxiv.org/abs/2112.08709], [CLQA](https://arxiv.org/abs/1907.06042))
+- multilingual NLP ([DOCmT5](https://arxiv.org/abs/2112.08709), [CLQA](https://arxiv.org/abs/1907.06042))
 
-Previously I spent great years at [National Taiwan University](https://www.ntu.edu.tw/) working with [Prof. Lin-Shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and [Prof. Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) on spoken question answering([Spoken-SQuAD](https://www.isca-speech.org/archive/pdfs/interspeech_2018/lee18d_interspeech.pdf). [ODSQA](https://ieeexplore.ieee.org/document/8639505), [Adversarial Learning SQA](https://ieeexplore.ieee.org/abstract/document/8683377)). 
+Previously I spent great years at [National Taiwan University](https://www.ntu.edu.tw/) working with [Prof. Lin-Shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and [Prof. Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) on spoken question answering ([Spoken-SQuAD](https://www.isca-speech.org/archive/pdfs/interspeech_2018/lee18d_interspeech.pdf). [ODSQA](https://ieeexplore.ieee.org/document/8639505), [Adversarial Learning SQA](https://ieeexplore.ieee.org/abstract/document/8683377)). 
 
 ## News
 - 03/2022: Our new preprint [In-Context Learning for Few-Shot Dialogue State Tracking](https://arxiv.org/abs/2203.08568) is out! 
