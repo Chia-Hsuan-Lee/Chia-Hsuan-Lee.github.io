@@ -22,6 +22,7 @@ My recent research interests are
 Previously I spent great years at [National Taiwan University](https://www.ntu.edu.tw/) working with [Prof. Lin-Shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and [Prof. Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) on spoken question answering ([Spoken-SQuAD](https://www.isca-speech.org/archive/pdfs/interspeech_2018/lee18d_interspeech.pdf), [ODSQA](https://ieeexplore.ieee.org/document/8639505), [Adversarial Learning SQA](https://ieeexplore.ieee.org/abstract/document/8683377)). 
 
 ## News
+- 04/2022: Our paper ["DOCmT5"](https://arxiv.org/abs/2112.08709) is accepted to NAACL2022 Findings! ["Twitter"](https://twitter.com/ChiahsuanL/status/1512582119440064512)
 - 03/2022: Our new preprint [In-Context Learning for Few-Shot Dialogue State Tracking](https://arxiv.org/abs/2203.08568) is out! 
 - 02/2022: Our [workshop](https://mia-workshop.github.io/) on Multilingual Information Access (MIA) will be held at NAACL2022 in Seattle! [Call for Paper](https://mia-workshop.github.io/cfp.html) and [Shared Task](https://mia-workshop.github.io/shared_task.html) are out!
 - 01/2022: Will intern with [Alexis Conneau](https://twitter.com/alex_conneau?lang=en) and [Ankur Bapna](https://twitter.com/ankurbpn) this summer at Google Research, Mountain View. 
