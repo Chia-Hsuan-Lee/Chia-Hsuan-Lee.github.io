@@ -11,7 +11,7 @@ redirect_from:
 
 
 Hi! Nice to meet you! I am **Chia-Hsuan (Michael) Lee (李佳軒)**.
-I am currently a  third-year PhD student at University of Washington, where I am advised by [Prof. Mari Ostendorf](https://people.ece.uw.edu/ostendorf/) in the [Natural Language Processing Group](https://nlp.washington.edu/). I also work closely with [Prof. Noah A. Smith](https://nasmith.github.io/).
+I am currently a fouth-year PhD student at University of Washington, where I am advised by [Prof. Mari Ostendorf](https://people.ece.uw.edu/ostendorf/) in the [Natural Language Processing Group](https://nlp.washington.edu/). I also work closely with [Prof. Noah A. Smith](https://nasmith.github.io/).
 
 My research interests are deep learning/machine learning and their applications in natural language processing. 
 My recent research interests are 
