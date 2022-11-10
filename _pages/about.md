@@ -11,7 +11,7 @@ redirect_from:
 
 
 Hi! Nice to meet you! I am **Chia-Hsuan (Michael) Lee (李佳軒)**.
-I am currently a fouth-year PhD student at University of Washington, where I am advised by [Prof. Mari Ostendorf](https://people.ece.uw.edu/ostendorf/) in the [Natural Language Processing Group](https://nlp.washington.edu/). I also work closely with [Prof. Noah A. Smith](https://nasmith.github.io/).
+I am a fourth-year PhD student at University of Washington, where I am advised by [Prof. Mari Ostendorf](https://people.ece.uw.edu/ostendorf/) in the [Natural Language Processing Group](https://nlp.washington.edu/). I also work closely with [Prof. Noah A. Smith](https://nasmith.github.io/).
 
 My research interests are deep learning/machine learning and their applications in natural language processing. 
 My recent research interests are 
@@ -21,7 +21,9 @@ My recent research interests are
 
 I was also fortunate to be advised by [Matthew Richardson](https://scholar.google.com/citations?user=IT-vb_kAAAAJ&hl=en) and [Alex Polozov](https://alexpolozov.com/) at Microsoft Research, [Melvin Johnson](https://scholar.google.com/citations?user=g4oMRgsAAAAJ&hl=en) at Google Research, [Ankur Bapna](https://twitter.com/ankurbpn) and [Yu Zhang](https://scholar.google.com/citations?user=EilVnKwAAAAJ&hl=en) at Google Brain Research. 
 
-Previously I spent great years at [National Taiwan University](https://www.ntu.edu.tw/) working with [Prof. Lin-Shan Lee](https://scholar.google.com.tw/citations?hl=zh-TW&user=23zBJqIAAAAJ&view_op=list_works&sortby=pubdate), [Prof. Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and [Prof. Yun-Nung Chen](https://www.csie.ntu.edu.tw/~yvchen/) on spoken question answering ([Spoken-SQuAD](https://www.isca-speech.org/archive/pdfs/interspeech_2018/lee18d_interspeech.pdf), [ODSQA](https://arxiv.org/abs/1904.07904), [Adversarial Learning SQA](https://arxiv.org/abs/1808.02280)). 
+I served on organzing comittees of [Multilingual Information Access Workshop](https://mia-workshop.github.io/) and program committees of [Structured and Unstructured Knowledge Integration Workshop](https://suki-workshop.github.io/organization). I review for EMNLP, ACL, NAACL, COLING and ARR. 
+
+I have a Master's degree in computer science from [National Taiwan University](https://www.ntu.edu.tw/) working with [Prof. Lin-Shan Lee](https://scholar.google.com.tw/citations?hl=zh-TW&user=23zBJqIAAAAJ&view_op=list_works&sortby=pubdate), [Prof. Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and [Prof. Yun-Nung Chen](https://www.csie.ntu.edu.tw/~yvchen/) on spoken question answering ([Spoken-SQuAD](https://www.isca-speech.org/archive/pdfs/interspeech_2018/lee18d_interspeech.pdf), [ODSQA](https://arxiv.org/abs/1904.07904), [Adversarial Learning SQA](https://arxiv.org/abs/1808.02280)). 
 
 ## News
 - 10/2022: Our paper on in-context learning for dialogue ["IC-DST"](https://arxiv.org/abs/2203.08568) is accepted to EMNLP2022 Findings! ["Twitter"](https://mobile.twitter.com/huyushi98/status/1529208385865797632)
