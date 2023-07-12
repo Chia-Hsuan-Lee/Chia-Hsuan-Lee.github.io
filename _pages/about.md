@@ -11,15 +11,15 @@ redirect_from:
 
 
 Hi! Nice to meet you! I am **Chia-Hsuan (Michael) Lee (李佳軒)**.
-I am a fourth-year PhD student at University of Washington, where I am advised by [Prof. Mari Ostendorf](https://people.ece.uw.edu/ostendorf/) in the [Natural Language Processing Group](https://nlp.washington.edu/). I also work closely with [Prof. Noah A. Smith](https://nasmith.github.io/).
+I am a fifth-year PhD student at University of Washington, where I am advised by [Prof. Mari Ostendorf](https://people.ece.uw.edu/ostendorf/) in the [Natural Language Processing Group](https://nlp.washington.edu/). I also work closely with [Prof. Noah A. Smith](https://nasmith.github.io/).
 
 My research interests are deep learning/machine learning and their applications in natural language processing. 
 My recent research interests are 
-- **Conversational AI** ([IC-DST](https://arxiv.org/abs/2203.08568), [SGP-DST](https://aclanthology.org/2021.emnlp-main.404/))
-- **text-to-SQL parsing** ([KaggleDBQA](https://aclanthology.org/2021.acl-long.176/), [IC-DST](https://arxiv.org/abs/2203.08568))
-- **multilingual NLP** ([DOCmT5](https://aclanthology.org/2022.findings-naacl.32/),  [CLQA](https://arxiv.org/abs/1907.06042))
+- **Conversational AI** ([SDP-DST (EMNLP 2021)](https://aclanthology.org/2021.emnlp-main.404/), [IC-DST (EMNLP 2022)](https://aclanthology.org/2022.findings-emnlp.193/))
+- **text-to-SQL parsing** ([KaggleDBQA (ACL2021)](https://aclanthology.org/2021.acl-long.176/), [IC-DST (EMNLP 2022)](https://aclanthology.org/2022.findings-emnlp.193/))
+- **multilingual NLP** ([DOCmT5 (NAACL 2022)](https://aclanthology.org/2022.findings-naacl.32/),  [CLQA](https://arxiv.org/abs/1907.06042))
 
-I was also fortunate to be advised by [Matthew Richardson](https://scholar.google.com/citations?user=IT-vb_kAAAAJ&hl=en) and [Alex Polozov](https://alexpolozov.com/) at Microsoft Research, [Melvin Johnson](https://scholar.google.com/citations?user=g4oMRgsAAAAJ&hl=en) at Google Research, [Ankur Bapna](https://twitter.com/ankurbpn) and [Yu Zhang](https://scholar.google.com/citations?user=EilVnKwAAAAJ&hl=en) at Google Brain Research. 
+I was also fortunate to be advised by [Matthew Richardson](https://scholar.google.com/citations?user=IT-vb_kAAAAJ&hl=en) and [Alex Polozov](https://alexpolozov.com/) at Microsoft Research, [Melvin Johnson](https://scholar.google.com/citations?user=g4oMRgsAAAAJ&hl=en) at Google Research, [Ankur Bapna](https://scholar.google.com/citations?user=6xaz-r0AAAAJ&hl=en) and [Yu Zhang](https://scholar.google.com/citations?user=EilVnKwAAAAJ&hl=en) at Google Brain Research. 
 
 I served on organzing comittees of [Multilingual Information Access Workshop](https://mia-workshop.github.io/) and program committees of [Structured and Unstructured Knowledge Integration Workshop](https://suki-workshop.github.io/organization). I review for EMNLP, ACL, NAACL, COLING and ARR. 
 
