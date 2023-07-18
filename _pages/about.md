@@ -15,7 +15,7 @@ I am a fifth-year PhD student at University of Washington, where I am advised by
 
 My research interests are deep learning/machine learning and their applications in natural language processing. 
 My recent research interests are 
-- **Conversational AI** ([SDP-DST (EMNLP 2021)](https://aclanthology.org/2021.emnlp-main.404/), [IC-DST (EMNLP 2022)](https://aclanthology.org/2022.findings-emnlp.193/))
+- **Conversational AI** ([SDP-DST (EMNLP 2021)](https://aclanthology.org/2021.emnlp-main.404/), [IC-DST (EMNLP 2022)](https://aclanthology.org/2022.findings-emnlp.193/) [DialGen](https://arxiv.org/abs/2307.07047))
 - **text-to-SQL parsing** ([KaggleDBQA (ACL2021)](https://aclanthology.org/2021.acl-long.176/), [IC-DST (EMNLP 2022)](https://aclanthology.org/2022.findings-emnlp.193/))
 - **multilingual NLP** ([DOCmT5 (NAACL 2022)](https://aclanthology.org/2022.findings-naacl.32/),  [CLQA](https://arxiv.org/abs/1907.06042))
 
@@ -26,6 +26,7 @@ I served on organzing comittees of [Multilingual Information Access Workshop](ht
 I have a Master's degree in computer science from [National Taiwan University](https://www.ntu.edu.tw/) working with [Prof. Lin-Shan Lee](https://scholar.google.com.tw/citations?hl=zh-TW&user=23zBJqIAAAAJ&view_op=list_works&sortby=pubdate), [Prof. Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and [Prof. Yun-Nung Chen](https://www.csie.ntu.edu.tw/~yvchen/) on spoken question answering ([Spoken-SQuAD](https://www.isca-speech.org/archive/pdfs/interspeech_2018/lee18d_interspeech.pdf), [ODSQA](https://arxiv.org/abs/1904.07904), [Adversarial Learning SQA](https://arxiv.org/abs/1808.02280)). 
 
 ## News
+- 07/2023: Our paper on collaborative human-LM framework for conversation generation, ["DialGen"](https://arxiv.org/abs/2307.07047) is out on arxiv!
 - 10/2022: Our paper on in-context learning for dialogue ["IC-DST"](https://arxiv.org/abs/2203.08568) is accepted to EMNLP2022 Findings! ["Twitter"](https://mobile.twitter.com/huyushi98/status/1529208385865797632)
 - 06/2022: Started the internship with [Ankur Bapna](https://twitter.com/ankurbpn) and [Yu Zhang](https://scholar.google.com/citations?user=EilVnKwAAAAJ&hl=en) at Google Brain Research, New York. 
 - 04/2022: Our paper ["DOCmT5"](https://aclanthology.org/2022.findings-naacl.32/) is accepted to NAACL2022 Findings! ["Twitter"](https://twitter.com/ChiahsuanL/status/1512582119440064512)
