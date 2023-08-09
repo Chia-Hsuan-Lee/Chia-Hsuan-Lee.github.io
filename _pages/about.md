@@ -26,7 +26,7 @@ I served on organzing comittees of [Multilingual Information Access Workshop](ht
 I have a Master's degree in computer science from [National Taiwan University](https://www.ntu.edu.tw/) working with [Prof. Lin-Shan Lee](https://scholar.google.com.tw/citations?hl=zh-TW&user=23zBJqIAAAAJ&view_op=list_works&sortby=pubdate), [Prof. Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and [Prof. Yun-Nung Chen](https://www.csie.ntu.edu.tw/~yvchen/) on spoken question answering ([Spoken-SQuAD](https://www.isca-speech.org/archive/pdfs/interspeech_2018/lee18d_interspeech.pdf), [ODSQA](https://arxiv.org/abs/1904.07904), [Adversarial Learning SQA](https://arxiv.org/abs/1808.02280)). 
 
 
-Here is my CV: <a href="files/CV_0809.pdf" target="_blank">CV</a>
+Here is my <a href="files/CV_0809.pdf" target="_blank">CV</a> 
 
 You can find me at: chiahlee [at] uw [dot] edu
 
