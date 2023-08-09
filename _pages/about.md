@@ -19,11 +19,16 @@ My recent research interests are
 - **text-to-SQL parsing** ([KaggleDBQA (ACL2021)](https://aclanthology.org/2021.acl-long.176/), [IC-DST (EMNLP 2022)](https://aclanthology.org/2022.findings-emnlp.193/))
 - **multilingual NLP** ([DOCmT5 (NAACL 2022)](https://aclanthology.org/2022.findings-naacl.32/),  [CLQA](https://arxiv.org/abs/1907.06042))
 
-I was also fortunate to be advised by [Matthew Richardson](https://scholar.google.com/citations?user=IT-vb_kAAAAJ&hl=en) and [Alex Polozov](https://alexpolozov.com/) at Microsoft Research, [Melvin Johnson](https://scholar.google.com/citations?user=g4oMRgsAAAAJ&hl=en) at Google Research, [Ankur Bapna](https://scholar.google.com/citations?user=6xaz-r0AAAAJ&hl=en) and [Yu Zhang](https://scholar.google.com/citations?user=EilVnKwAAAAJ&hl=en) at Google Brain Research. 
+I was also fortunate to be advised by [Matthew Richardson](https://scholar.google.com/citations?user=IT-vb_kAAAAJ&hl=en) and [Alex Polozov](https://alexpolozov.com/) at [Microsoft Research NLP group](https://www.microsoft.com/en-us/research/group/natural-language-processing/people/), [Melvin Johnson](https://scholar.google.com/citations?user=g4oMRgsAAAAJ&hl=en) at Google Research, [Ankur Bapna](https://scholar.google.com/citations?user=6xaz-r0AAAAJ&hl=en) and [Yu Zhang](https://scholar.google.com/citations?user=EilVnKwAAAAJ&hl=en) at [Google Brain Research](https://research.google/teams/brain/). 
 
 I served on organzing comittees of [Multilingual Information Access Workshop](https://mia-workshop.github.io/) and program committees of [Structured and Unstructured Knowledge Integration Workshop](https://suki-workshop.github.io/organization). I review for EMNLP, ACL, NAACL, COLING and ARR. 
 
 I have a Master's degree in computer science from [National Taiwan University](https://www.ntu.edu.tw/) working with [Prof. Lin-Shan Lee](https://scholar.google.com.tw/citations?hl=zh-TW&user=23zBJqIAAAAJ&view_op=list_works&sortby=pubdate), [Prof. Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) and [Prof. Yun-Nung Chen](https://www.csie.ntu.edu.tw/~yvchen/) on spoken question answering ([Spoken-SQuAD](https://www.isca-speech.org/archive/pdfs/interspeech_2018/lee18d_interspeech.pdf), [ODSQA](https://arxiv.org/abs/1904.07904), [Adversarial Learning SQA](https://arxiv.org/abs/1808.02280)). 
+
+
+Here is my CV: <a href="files/CV_0809.pdf" target="_blank">CV</a>
+
+You can find me at: chiahlee [at] uw [dot] edu
 
 ## News
 - 07/2023: Our paper on collaborative human-LM framework for conversation generation, ["DialGen"](https://arxiv.org/abs/2307.07047) is out on arxiv!
