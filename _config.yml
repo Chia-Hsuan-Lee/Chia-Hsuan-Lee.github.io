@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Chia-Hsuan (Michael) Lee"
   avatar           : "michael_profile.jpg"
-  bio              : "Deep Learning, Natural Language Understanding, Question Answering"
+  bio              : "Language Modeling, Dialogue Agent"
   location         : "Seattle, WA"
   employer         : "University Of Washington"
   googlescholar    : "https://scholar.google.com.tw/citations?user=Fw4h2iwAAAAJ&hl=zh-TW"
-  email            : "chiahsuan.li@gmail.com"
+  email            : "chiahlee@uw.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -175,7 +175,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
