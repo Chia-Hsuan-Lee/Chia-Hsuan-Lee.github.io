@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Chia-Hsuan (Michael) Lee"
 title_separator          : "-"
 name                     : &name "Chia-Hsuan (Michael) Lee"
-description              : &description "I am currently a computer science M.S. student in National Taiwan University, under the supervision of Professors Lin-Shan Lee and Hung-Yi Lee. My research goal is to let machines reason upon both common sense knowledge and grounded meanings from various contexts. My reseach interests include natrual language understanding, natural langauge generation and speech processing. Especially question answering on text content and speech content through adversarial learning and transfer learning."
-url                      : https://chiahsuan156.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description ""
+url                      : https://chia-hsuan-lee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : chiahsuan156/chiahsuan156.github.io
+repository               : chia-hsuan-lee/chia-hsuan-lee.github.io
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -21,7 +21,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # false (default), "disqus", "discourse", "Facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chiahsuan156"
+  github           : "Chia-Hsuan-Lee"
   google_plus      :
   keybase          :
   instagram        :
