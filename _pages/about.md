@@ -20,7 +20,7 @@ My primary research interests are language modeling and dialogue agents. More sp
 
 I served on organizing committees of [Multilingual Information Access Workshop](https://mia-workshop.github.io/) and program committees of [Structured and Unstructured Knowledge Integration Workshop](https://suki-workshop.github.io/organization). I review for EMNLP, ACL, NAACL, COLING, and ARR. 
 
-Here is my <a href="files/CV_0127.pdf" target="_blank">CV</a> 
+Here is my <a href="files/CV_0218.pdf" target="_blank">CV</a> 
 
 You can find me at: chiahlee [at] uw [dot] edu
 
