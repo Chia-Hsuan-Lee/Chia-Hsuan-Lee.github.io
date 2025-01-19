@@ -23,9 +23,9 @@ My primary research interests are language modeling and dialogue agents. More sp
 
 I served on organizing committees of [Multilingual Information Access Workshop](https://mia-workshop.github.io/) and program committees of [Structured and Unstructured Knowledge Integration Workshop](https://suki-workshop.github.io/organization). I review for EMNLP, ACL, NAACL, COLING, and ARR. 
 
-Here is my <a href="files/CV_0218.pdf" target="_blank">CV</a> 
+Here is my <a href="files/CV_01192025.pdf" target="_blank">CV</a> 
 
-You can find me at: chiahlee [at] uw [dot] edu
+You can find me at: chiahsuan.li [at] gmail [dot] com
 
 ## News
 - 10/2024: Our paper on SLM self-correction ([CorrectionLM](https://arxiv.org/abs/2410.18209)) is out on arxiv.
@@ -33,8 +33,6 @@ You can find me at: chiahlee [at] uw [dot] edu
 - 08/2024: I have passed my defense and officially a PhD! 
 - 03/2024: ["OrchestraLLM"](https://aclanthology.org/2024.naacl-long.79/) is accepted to NAACL 2024 main conference.
 - 11/2023: Our paper on orchestrating LLMs with a retrieval-based dynamic router, ["OrchestraLLM"](https://arxiv.org/pdf/2311.09758.pdf) is out on arxiv.
-- 07/2023: Our paper on collaborative human-LM framework for long conversation generation, ["DialGen"](https://arxiv.org/abs/2307.07047) is out on arxiv!
 - 10/2022: Our paper on in-context learning for task-oriented dialogue ["IC-DST"](https://arxiv.org/abs/2203.08568) is accepted to EMNLP2022 Findings! ["Twitter"](https://mobile.twitter.com/huyushi98/status/1529208385865797632)
 - 06/2022: Started the internship with [Ankur Bapna](https://twitter.com/ankurbpn) and [Yu Zhang](https://scholar.google.com/citations?user=EilVnKwAAAAJ&hl=en) at Google Brain Research, New York. 
 - 04/2022: Our paper on pretraining multilingual long-context language models ["DOCmT5"](https://aclanthology.org/2022.findings-naacl.32/) is accepted to NAACL2022 Findings! ["Twitter"](https://twitter.com/ChiahsuanL/status/1512582119440064512)
-- 02/2022: Our [workshop](https://mia-workshop.github.io/) on Multilingual Information Access (MIA) will be held at NAACL2022 in Seattle! [Call for Paper](https://mia-workshop.github.io/cfp.html) and [Shared Task](https://mia-workshop.github.io/shared_task.html) are out!
